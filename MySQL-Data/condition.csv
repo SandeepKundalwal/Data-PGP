@@ -1,0 +1,7 @@
+condition_number,Name,factor1,factor2
+1,"with Feedback + Human generated",0,0
+2,"with Feedback +GPT-3 (1,1) generated",0,2
+3,"with Feedback + GPT-3 (0.3,0.8) generated",0,1
+4,"without Feedback + Human generated",1,0
+5,"without Feedback + GPT-3 (1,1) generated",1,2
+6,"with Feedback + GPT-3 (0.3,0.8) generated",1,1
